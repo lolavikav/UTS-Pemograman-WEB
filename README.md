@@ -46,8 +46,11 @@ Tambahan:
 - Menu navigasi ke:
 
 o Informasi Stok/Katalog
+
 o Tracking Pengiriman
+
 o Laporan Pemesanan
+
 o History Transaksi
 
 - Tampilkan greeting otomatis:
@@ -61,7 +64,30 @@ o History Transaksi
 - Ada tombol Tambah Stok Baru → menambah baris baru ke tabel dengan JS
 
 # 4.Checkout.Html
+- Menampilkan data pemesanan (bisa tambah/ubah)
 
+- Form:
+
+ o Nama Pemesan
+
+ o Alamat
+
+ o Metode Pembayaran
+
+ oJumlah buku
+
+- Gunakan JS untuk validasi & menampilkan total harga
+
+# 5. Tracking.Html
+- Input: Nomor Delivery Order
+
+- Ketika tombol "Cari" ditekan → tampilkan:
+
+o Nama Pemesan
+
+o Status Pengiriman (pakai progress bar / warna / list)
+
+oDetail ekspedisi, tanggal kirim, jenis paket, total pembayaran
 
 
 
