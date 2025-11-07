@@ -40,7 +40,25 @@ Tambahan:
 
 - Tambahan:
   Tombol “Lupa Password” dan “Daftar” → muncul dalam modal box/pop up
-Validasi menggunakan JavaScript
+- Validasi menggunakan JavaScript
+
+# 2. Dashboard.Html
+- Menu navigasi ke:
+* Informasi Stok/Katalog
+* Tracking Pengiriman
+* Laporan Pemesanan
+* History Transaksi
+- Tampilkan greeting otomatis:
+- “Selamat pagi/siang/sore” sesuai waktu lokal (gunakan Date() di JS)
+
+# 3. Stok.Html
+- Ambil data dari file data.js:
+
+- Tampilkan tabel katalog buku secara dinamis (JS DOM)
+
+- Ada tombol Tambah Stok Baru → menambah baris baru ke tabel dengan JS
+
+# 4.Checkout.Html
 
 
 
