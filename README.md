@@ -44,10 +44,12 @@ Tambahan:
 
 # 2. Dashboard.Html
 - Menu navigasi ke:
-* Informasi Stok/Katalog
-* Tracking Pengiriman
-* Laporan Pemesanan
-* History Transaksi
+
+ * Informasi Stok/Katalog
+ * Tracking Pengiriman
+ * Laporan Pemesanan
+ * History Transaksi
+
 - Tampilkan greeting otomatis:
 - “Selamat pagi/siang/sore” sesuai waktu lokal (gunakan Date() di JS)
 
